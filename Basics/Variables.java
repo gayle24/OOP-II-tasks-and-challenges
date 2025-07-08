@@ -1,3 +1,5 @@
+package Basics;
+
 public class Variables {
     void showInterest(){
         double amount;
